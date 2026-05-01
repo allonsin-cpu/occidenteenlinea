@@ -1,0 +1,183 @@
+.lfr-layout-structure-item-container {padding: 0;} .lfr-layout-structure-item-row {overflow: hidden;} .portlet-borderless .portlet-content {padding: 0;}.lfr-layout-structure-item-7fb898be-5189-0ae8-fb18-7baada44260f {
+padding-bottom: 56px !important;
+padding-top: 24px !important;
+}
+.lfr-layout-structure-item-4275c3d3-8655-c509-141c-3cde7a7dc456 {
+padding-top: 20px !important;
+}
+.lfr-layout-structure-item-4275c3d3-8655-c509-141c-3cde7a7dc456.o-c-gridCards {
+}
+
+@media (max-width: 767px) {
+  .lfr-layout-structure-item-4275c3d3-8655-c509-141c-3cde7a7dc456.o-c-gridCards .row {
+     display: flex;
+     flex-direction: column;
+     gap: 12px;
+  }
+}.lfr-layout-structure-item-30ef4ad8-368e-ed30-9fe4-7eafa1699801 {
+padding-top: var(--spacer-4,1.5rem) !important;
+}
+.lfr-layout-structure-item-72014570-7450-4693-5601-95f04cd07268 {
+margin-bottom: 32px !important;
+}
+.lfr-layout-structure-item-f2b9113d-21cb-38b8-31f0-c8e18ba9e959 {
+padding-top: var(--spacer-4,1.5rem) !important;
+}
+.lfr-layout-structure-item-e6204ee6-e396-c1db-04e5-6c0b62dd8514 {
+padding-top: var(--spacer-4,1.5rem) !important;
+}
+.lfr-layout-structure-item-4cb1be53-e401-63fc-07dd-a38f889cac4e {
+padding-bottom: 48px !important;
+padding-top: 24px !important;
+}
+.lfr-layout-structure-item-7db13090-0685-abbb-9634-c06b3b5cb551 {
+padding-top: 24px !important;
+}
+.lfr-layout-structure-item-7db13090-0685-abbb-9634-c06b3b5cb551.o-c-gridCards {
+}
+
+@media (max-width: 767px) {
+  .lfr-layout-structure-item-7db13090-0685-abbb-9634-c06b3b5cb551.o-c-gridCards .row {
+     display: flex;
+     flex-direction: column;
+     gap: 12px;
+  }
+}.lfr-layout-structure-item-4d29eb84-35aa-ce21-0295-938bb576cc79 {
+padding-top: 24px !important;
+}
+.lfr-layout-structure-item-4d29eb84-35aa-ce21-0295-938bb576cc79.o-c-gridCards {
+}
+
+@media (max-width: 767px) {
+  .lfr-layout-structure-item-4d29eb84-35aa-ce21-0295-938bb576cc79.o-c-gridCards .row {
+     display: flex;
+     flex-direction: column;
+     gap: 12px;
+  }
+}.lfr-layout-structure-item-2f801bfa-4488-4c60-4c5f-eedb8d463336 {
+margin-bottom: 20px !important;
+}
+.lfr-layout-structure-item-2d07f5c0-a7ae-2540-31df-6006f293a6cb {
+background-color: #FFFFFF !important;
+margin-bottom: 24px !important;
+}
+.lfr-layout-structure-item-6547ddc8-1065-295a-6c41-66182d393dc9 {
+padding-bottom: 56px !important;
+padding-top: 56px !important;
+}
+.lfr-layout-structure-item-5cd231b7-6429-2bfe-10e5-1b68b58f75cb {
+font-size: 24px !important;
+margin-top: -24px !important;
+text-align: right !important;
+}
+.lfr-layout-structure-item-bf1c915f-6dba-41b0-5c2e-b59bfbf483e1 {
+padding-top: 20px !important;
+}
+.lfr-layout-structure-item-bf1c915f-6dba-41b0-5c2e-b59bfbf483e1.o-c-gridCards {
+}
+
+@media (max-width: 767px) {
+  .lfr-layout-structure-item-bf1c915f-6dba-41b0-5c2e-b59bfbf483e1.o-c-gridCards .row {
+     display: flex;
+     flex-direction: column;
+     gap: 12px;
+  }
+}.lfr-layout-structure-item-34459ac5-2a9e-7c14-9220-b326b3194722 {
+padding-bottom: var(--spacer-6,4.5rem) !important;
+padding-top: var(--spacer-6,4.5rem) !important;
+}
+.lfr-layout-structure-item-d2c874cc-e043-4ecc-4b88-a5414623c1bc {
+background-color: #FFFFFF !important;
+}
+.lfr-layout-structure-item-e800b8d3-11c9-bcf7-86a8-8de57668caad {
+margin-bottom: 48px !important;
+}
+@media screen and (max-width: 991px) {.lfr-layout-structure-item-7fb898be-5189-0ae8-fb18-7baada44260f {
+padding-bottom: 48px !important;
+padding-left: 4px !important;
+padding-right: 4px !important;
+}
+.lfr-layout-structure-item-2f801bfa-4488-4c60-4c5f-eedb8d463336 {
+margin-left: 4px !important;
+margin-right: 4px !important;
+}
+.lfr-layout-structure-item-6547ddc8-1065-295a-6c41-66182d393dc9 {
+margin-left: 12px !important;
+margin-right: 12px !important;
+}
+.lfr-layout-structure-item-e800b8d3-11c9-bcf7-86a8-8de57668caad {
+margin-bottom: 48px !important;
+margin-left: 16px !important;
+margin-right: 16px !important;
+}
+}@media screen and (max-width: 767px) {.lfr-layout-structure-item-7fb898be-5189-0ae8-fb18-7baada44260f {
+padding-left: var(--spacer-0,0rem) !important;
+padding-right: var(--spacer-0,0rem) !important;
+}
+.lfr-layout-structure-item-58e4a9d0-eb2b-87a6-73b7-d3830f4f1ff2 {
+margin-bottom: 8px !important;
+}
+.lfr-layout-structure-item-4275c3d3-8655-c509-141c-3cde7a7dc456 {
+padding-top: 12px !important;
+}
+.lfr-layout-structure-item-73e3e3ff-b85b-3fc8-75bf-0473e52b19b4 {
+margin-bottom: 8px !important;
+}
+.lfr-layout-structure-item-72014570-7450-4693-5601-95f04cd07268 {
+margin-bottom: 20px !important;
+}
+.lfr-layout-structure-item-d779831f-28b8-da57-6909-0617213f5f77 {
+margin-bottom: 8px !important;
+}
+.lfr-layout-structure-item-4cb1be53-e401-63fc-07dd-a38f889cac4e {
+padding-left: var(--spacer-3,1rem) !important;
+padding-right: var(--spacer-3,1rem) !important;
+}
+.lfr-layout-structure-item-65aba2f5-8624-5564-af71-ed514835911c {
+margin-bottom: 8px !important;
+}
+.lfr-layout-structure-item-2f801bfa-4488-4c60-4c5f-eedb8d463336 {
+margin-left: 0px !important;
+margin-right: 0px !important;
+}
+.lfr-layout-structure-item-8c7e1281-0dda-5b79-8388-e630e7c7e28a {
+margin-bottom: 8px !important;
+}
+.lfr-layout-structure-item-6547ddc8-1065-295a-6c41-66182d393dc9 {
+margin-left: 0px !important;
+margin-right: 0px !important;
+padding-bottom: 24px !important;
+padding-top: 24px !important;
+}
+.lfr-layout-structure-item-34459ac5-2a9e-7c14-9220-b326b3194722 {
+padding-bottom: 56px !important;
+padding-top: 56px !important;
+}
+.lfr-layout-structure-item-31b9096c-dd33-8cd8-28d9-3d613909039c {
+margin-bottom: 8px !important;
+}
+.lfr-layout-structure-item-e800b8d3-11c9-bcf7-86a8-8de57668caad {
+margin-bottom: 24px !important;
+margin-left: 0px !important;
+margin-right: 0px !important;
+}
+}@media screen and (max-width: 575px) {.lfr-layout-structure-item-4cb1be53-e401-63fc-07dd-a38f889cac4e {
+padding-bottom: 45px !important;
+}
+.lfr-layout-structure-item-4d29eb84-35aa-ce21-0295-938bb576cc79 {
+padding-left: 0px !important;
+padding-right: 0px !important;
+padding-top: 32px !important;
+}
+.lfr-layout-structure-item-6547ddc8-1065-295a-6c41-66182d393dc9 {
+margin-left: var(--spacer-0,0rem) !important;
+margin-right: var(--spacer-0,0rem) !important;
+padding-left: 12px !important;
+padding-right: 12px !important;
+}
+.lfr-layout-structure-item-e800b8d3-11c9-bcf7-86a8-8de57668caad {
+margin-bottom: 24px !important;
+margin-left: var(--spacer-0,0rem) !important;
+margin-right: var(--spacer-0,0rem) !important;
+}
+}

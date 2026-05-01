@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Poppins";
+    src: url("/documents/d/asset-library-39966/poppins-light") format('truetype');
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("/documents/d/asset-library-39966/poppins-regular") format('truetype');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("/documents/d/asset-library-39966/poppins-semibold") format('truetype');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("/documents/d/asset-library-39966/poppins-bold") format('truetype');
+    font-style: normal;
+    font-weight: 700;
+}
